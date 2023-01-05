@@ -1,0 +1,23 @@
+{
+  "name": "3d-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerdixon/3d-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerdixon/3d-sandbox/issues"
+  },
+  "homepage": "https://github.com/joerdixon/3d-sandbox#readme",
+  "dependencies": {
+    "three": "^0.148.0"
+  }
+}
