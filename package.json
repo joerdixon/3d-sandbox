@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/joerdixon/3d-sandbox#readme",
   "dependencies": {
+    "gsap": "^3.11.4",
     "three": "^0.148.0"
   }
 }
